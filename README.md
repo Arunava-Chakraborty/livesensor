@@ -12,7 +12,7 @@ This project builds an end-to-end Machine Learning pipeline to predict APS failu
 
 ### Dataset
 
-    **Source**: Github "https://raw.githubusercontent.com/avnyadav/sensor-fault-detection/main/aps_failure_training_set1.csv"
+    ** Source **: Github "https://raw.githubusercontent.com/avnyadav/sensor-fault-detection/main/aps_failure_training_set1.csv"
 
     **Size**: ~60,000 rows × 170+ features
 
@@ -36,6 +36,7 @@ This project builds an end-to-end Machine Learning pipeline to predict APS failu
 
 
 ### Project Structure
+
 ```
 APS-Failure-Detection/
 │
@@ -62,6 +63,7 @@ APS-Failure-Detection/
 |── .gitignore              # Ignored files/folders
 └── (future modules)        # Components, pipelines, utils, etc.
 ```
+
 
 ### Features
 
