@@ -1,5 +1,4 @@
 ### Problem Statement ->
-LrUYcjoZ45Bxt92v
 The Air Pressure System (APS) is a critical component in heavy-duty vehicles like trucks. Failures in APS can lead to:
 
         Unexpected breakdowns
