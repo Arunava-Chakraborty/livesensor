@@ -4,10 +4,12 @@ import pymongo
 
 @dataclass
 
-class Enviornmentalvariable:
+
+class EnvironmentVariable:
     mongo_db_url:str = os.getenv("MONGO_DB_URL")
-    
-    
-env_var = Enviornmentalvariable()
+
+
+
+env_var = EnvironmentVariable()
 
 mongo_client = pymongo.MongoClient(env_var.mongo_db_url)
