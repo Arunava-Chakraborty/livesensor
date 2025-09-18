@@ -4,7 +4,6 @@ from sensor.entity.artifact_entity import DataIngestionArtifact
 from sensor.logger import logging
 import sys , os 
 from sensor.components.data_ingestion import DataIngestion
-
 from sensor.components.Data_Validation import DataValidation
 from sensor.entity.config_entity import TrainingPipelineConfig , DataIngestionConfig, DataValidationConfig
 from sensor.entity.artifact_entity import DataIngestionArtifact , DataValidationArtifact
